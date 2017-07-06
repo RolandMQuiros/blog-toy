@@ -1,0 +1,25 @@
+{
+  "name": "blog-toy",
+  "version": "0.0.1",
+  "description": "Toy node blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RolandMQuiros/blog-toy.git"
+  },
+  "author": "Roland Quiros <afictitiousforce@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RolandMQuiros/blog-toy/issues"
+  },
+  "homepage": "https://github.com/RolandMQuiros/blog-toy#readme",
+  "devDependencies": {
+    "angular": "^1.6.5"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
